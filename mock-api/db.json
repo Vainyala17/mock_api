@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "mobilenumber": 7702000723,
+      "password": "abc@123",
+      "role": "Operator",
+      "token": "bsg*fsg)bvsdhgh&4HH"
+    },
+    {
+      "id": "2",
+      "mobilenumber": 7123456788,
+      "password": "abc@123",
+      "role": "Supervisor",
+      "token": "bnsdgh*423vBD6s&bsv"
+    },
+    {
+      "id": "3",
+      "mobilenumber": 7123456789,
+      "password": "abc@123",
+      "role": "Manager",
+      "token": "BfsjhHgfd*$ssg^fsa"
+    },
+    {
+      "id": "df92",
+      "mobilenumber": 7123456777,
+      "password": "abc@777",
+      "role": "Manager",
+      "token": "NBDJvdhgsf(223#cdasbvcs"
+    },
+    {
+      "id": "d02b",
+      "mobilenumber": 7123456767,
+      "password": "abc@767",
+      "role": "Supervisor"
+    },
+    {
+      "id": "d117",
+      "mobilenumber": 7123456767,
+      "password": "abc@767",
+      "role": "Supervisor"
+    },
+    {
+      "id": "c721",
+      "mobilenumber": 9767731178,
+      "password": "abc@7888",
+      "role": "Manager"
+    }
+  ]
+}
